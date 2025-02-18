@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: martes, 4 de junio de 2024 23:23:17</msg><msg code="0" type="0">
+Comprobada la existencia de una capa temporal previa.</msg><msg code="0" type="0">sel.carpeta_resultado ------ &gt;&gt;&gt; D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo\resultados</msg><msg code="0" type="50">a. nada
+b. contenido
+c. dp &gt;&gt;&gt; D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo
+d. fh &gt;&gt;&gt; 20240604232508
+e. nuevo_nombre &gt;&gt;&gt; resultados_20240604232508
+f. nueva_ruta &gt;&gt;&gt; D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo\resultados_20240604232508
+g. PRE -- renamed</msg><msg code="1" type="100">ERROR En COMPROBAR CARPETA: [WinError 2] El sistema no puede encontrar el archivo especificado: "'resultados'" -&gt; "'D:\\trabajo\\GIS\\Desarrollo y personalizacion\\python\\arcpy\\Feature2KML\\Feature 2 KML Demo\\resultados_20240604232508'"</msg><msg code="0" type="0">
+Iniciado el proceso de creación de capas a partir de registros a las 23:25:08 04.06.2024</msg><msg code="0" type="0">Procesado el 11.1% de los registros</msg><msg code="0" type="0">Procesado el 22.2% de los registros</msg><msg code="0" type="0">Procesado el 33.3% de los registros</msg><msg code="0" type="0">Procesado el 44.4% de los registros</msg><msg code="0" type="0">Procesado el 55.6% de los registros</msg><msg code="0" type="0">Procesado el 66.7% de los registros</msg><msg code="0" type="0">Procesado el 77.8% de los registros</msg><msg code="0" type="0">Procesado el 88.9% de los registros</msg><msg code="0" type="0">Procesado el 100.0% de los registros</msg><msg code="0" type="0">Finalizado el proceso de creación de capas a partir de registros a las 23:25:13 04.06.2024
+</msg><msg code="-2147467259" type="100">Failed to execute (FeatureToKML).</msg><msg code="0" type="3">Failed at martes, 4 de junio de 2024 23:25:13 (Elapsed Time: 1 minutes 56 seconds)</msg></messages>

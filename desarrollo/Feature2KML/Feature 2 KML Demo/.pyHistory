@@ -1,0 +1,18 @@
+﻿arcpy.mp.ArcGISProject()
+arcpy.mp.ArcGISProject("CURRENT")
+arcpy.mp.ArcGISProject("CURRENT").value
+arcpy.mp.ArcGISProject("CURRENT").path
+arcpy.mp.ArcGISProject("CURRENT").listMaps()[0]
+arcpy.mp.ArcGISProject("CURRENT").listMaps()[0].path
+arcpy.mp.ArcGISProject("CURRENT").listMaps()[0].filepath
+arcpy.mp.ArcGISProject("CURRENT").listMaps()[0].filePath
+arcpy.mp.ArcGISProject("CURRENT")..filePath
+arcpy.mp.ArcGISProject("CURRENT").filePath
+import os
+kml_path = "D:\\trabajo\\GIS\\Desarrollo y personalizacion\\python\\arcpy\\Feature2KML\\Feature 2 KML Demo\\resultados"
+kml_layer = kml_path + "\\" +"teatroALGERIA.kml""
+kml_layer = "D:\\trabajo\\GIS\\Desarrollo y personalizacion\\python\\arcpy\\Feature2KML\\Feature 2 KML Demo\\resultados\\teatroALGERIA.kml"
+kml_layer.name
+kml_layer
+kml_path = "D:\\trabajo\\GIS\\Desarrollo y personalizacion\\python\\arcpy\\Feature2KML\\Feature 2 KML Demo\\resultados\\teatroALGERIA.kml"
+capa = arcpy.mp.LayerFile(kml_path)

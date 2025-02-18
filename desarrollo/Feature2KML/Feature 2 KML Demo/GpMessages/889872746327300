@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: lunes, 3 de junio de 2024 14:39:24</msg><msg code="0" type="0">
+Ruta de creación de los nuevos KML: D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo\resultados.
+Se crearán 7 capas a partir del mismo número de registros de la capa de entrada.</msg><msg code="0" type="50">
+Existe una carpeta con el nombre resultados que tiene contenido. Para no perder este contenido, se ha renombrada como resultados_20240603143925</msg><msg code="0" type="0">
+Se ha creado la carpeta resultados</msg><msg code="0" type="0">
+Comprobados los nombres de todas las capas del mapa.</msg><msg code="0" type="0">
+Comienza el proceso de creación de capas a partir de registros a las 2024-06-03 14:39:25.531504</msg><msg code="0" type="0">Procesado: 1 de 7</msg><msg code="0" type="0">DIVISION: 0</msg><msg code="0" type="0">Procesado: 2 de 7</msg><msg code="0" type="0">DIVISION: 0</msg><msg code="0" type="0">Procesado: 3 de 7</msg><msg code="0" type="0">DIVISION: 0</msg><msg code="0" type="0">Procesado: 4 de 7</msg><msg code="0" type="0">DIVISION: 0</msg><msg code="0" type="0">Procesado: 5 de 7</msg><msg code="0" type="0">DIVISION: 0</msg><msg code="0" type="0">Procesado: 6 de 7</msg><msg code="0" type="0">DIVISION: 0</msg><msg code="0" type="0">Procesado: 7 de 7</msg><msg code="0" type="0">DIVISION: 100</msg><msg code="0" type="0">Finalizado el proceso de creación de capas a partir de registros a las 2024-06-03 14:39:35.782213
+</msg><msg code="0" type="3">Succeeded at lunes, 3 de junio de 2024 14:39:36 (Elapsed Time: 11.27 seconds)</msg></messages>

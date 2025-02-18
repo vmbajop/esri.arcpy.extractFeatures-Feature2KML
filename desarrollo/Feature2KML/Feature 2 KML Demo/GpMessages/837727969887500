@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: lunes, 3 de junio de 2024 0:10:21</msg><msg code="0" type="1">Executing (Iterate Feature Selection): IterateFeatureSelection Fronteras_GLOBAL_ExportFeatures # false</msg><msg code="0" type="2">Start Time: lunes, 3 de junio de 2024 0:10:23</msg><msg code="0" type="3">Succeeded at lunes, 3 de junio de 2024 0:10:23 (Elapsed Time: 0.06 seconds)</msg><msg code="0" type="1">Executing (Calculate Value (2)): CalculateValue contar("%Value-1%") "def contar(contador):
+    try:
+        contador_int = int(contador)
+        return contador_int + 1
+    except ValuerError:
+        return 0" Long</msg><msg code="0" type="2">Start Time: lunes, 3 de junio de 2024 0:10:23</msg><msg code="539" type="100">ERROR 000539: Traceback (most recent call last):
+  File "&lt;string&gt;", line 3, in contar
+ValueError: invalid literal for int() with base 10: '%Value-1%'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+  File "&lt;string&gt;", line 5, in contar
+NameError: name 'ValuerError' is not defined
+</msg><msg code="-2147467259" type="100">Failed to execute (Calculate Value (2)).</msg><msg code="0" type="3">Failed at lunes, 3 de junio de 2024 0:10:23 (Elapsed Time: 0.03 seconds)</msg><msg code="-2147467259" type="100">Failed to execute (FeatureToKMLModel).</msg><msg code="0" type="3">Failed at lunes, 3 de junio de 2024 0:10:23 (Elapsed Time: 1.69 seconds)</msg></messages>

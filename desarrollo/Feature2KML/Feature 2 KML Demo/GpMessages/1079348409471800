@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: miércoles, 5 de junio de 2024 19:17:17</msg><msg code="0" type="0">
+Se ha creado la carpeta 'resultados'</msg><msg code="0" type="0">
+Iniciado el proceso de creación de capas a partir de registros a las 19:19:45 05.06.2024</msg><msg code="0" type="0">
+Se van a extraer '17' registros, creando el mismo número de capas en 'resultados'</msg><msg code="1" type="100">ERROR EN LA EXTRACCIÓN &gt;&gt;&gt; 'Failed to execute. Parameters are not valid.
+ERROR 000732: Layer: Dataset PRBS_TEMP_  does not exist or is not supported
+Failed to execute (LayerToKML).
+</msg><msg code="-2147467259" type="100">Failed to execute (FeatureToKML).</msg><msg code="0" type="3">Failed at miércoles, 5 de junio de 2024 19:19:46 (Elapsed Time: 2 minutes 28 seconds)</msg></messages>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: martes, 4 de junio de 2024 22:57:36</msg><msg code="-2147467259" type="100">  File "D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo\Feature To KML.atbx\FeatureToKML.tool\tool.script.execute.py", line 1
+    C:\Users\vmbp\AppData\Local\Temp\ArcGISProTemp20220\tmp1CC0.py
+       ^
+SyntaxError: unexpected character after line continuation character
+</msg><msg code="0" type="0">Failed script Feature To KML...</msg><msg code="-2147467259" type="100">Failed to execute (FeatureToKML).</msg><msg code="0" type="3">Failed at martes, 4 de junio de 2024 22:57:37 (Elapsed Time: 1,41 seconds)</msg></messages>

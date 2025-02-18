@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: lunes, 3 de junio de 2024 14:29:30</msg><msg code="0" type="0">
+Ruta de creación de los nuevos KML: D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo\resultados.
+Se crearán 7 capas a partir del mismo número de registros de la capa de entrada.</msg><msg code="0" type="50">
+Existe una carpeta con el nombre resultados que tiene contenido. Para no perder este contenido, se ha renombrada como resultados_20240603142931</msg><msg code="0" type="0">
+Se ha creado la carpeta resultados</msg><msg code="0" type="0">
+Comprobados los nombres de todas las capas del mapa.</msg><msg code="0" type="0">
+Comienza el proceso de creación de capas a partir de registros a las 2024-06-03 14:29:31.276155</msg><msg code="0" type="0">Procesado: 1 de 7</msg><msg code="-2147467259" type="100">Traceback (most recent call last):
+  File "D:\trabajo\GIS\Desarrollo y personalizacion\python\arcpy\Feature2KML\Feature 2 KML Demo\Feature To KML.atbx\FeatureToKML.tool\tool.script.execute.py", line 63, in &lt;module&gt;
+TypeError: int() argument must be a string, a bytes-like object or a number, not 'Result'
+</msg><msg code="0" type="0">Failed script Feature To KML...</msg><msg code="-2147467259" type="100">Failed to execute (FeatureToKML).</msg><msg code="0" type="3">Failed at lunes, 3 de junio de 2024 14:29:32 (Elapsed Time: 1.93 seconds)</msg></messages>
