@@ -1,2 +1,0 @@
-Feature2kml solo sirve para ver la configuración de los archivos py en la toolbox atbx
-El desarrollo es sobre la versión 1.5, aunque podría borrarse y regenerarse a partir de la 1.0, que es la funcional
